@@ -10,25 +10,17 @@
   <strong>Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀</strong>
 </p>
 
-<table>
-  <tr>
-    <!-- Left: About + Skills -->
-    <td width="60%" valign="top">
-      <ul>
-        <li>💻 I work with <strong>HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++</strong></li>
-        <li>🚀 Focused on <strong>Full Stack Development</strong></li>
-        <li>🌐 Portfolio: <a href="https://rahul-shastri67.github.io/My-Portfolio/">https://rahul-shastri67.github.io/My-Portfolio/</a></li>
-        <li>📫 Reach me at: <strong>shastrirahul246@gmail.com</strong></li>
-      </ul>
-    </td>
+<!-- GIF Center -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="220" />
+</p>
 
-    <!-- Right: GIF -->
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="220" />
-    </td>
-  </tr>
-</table>
+<!-- About + Skills (Left by default) -->
 
+- 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++**  
+- 🚀 Focused on **Full Stack Development**  
+- 🌐 Portfolio: https://rahul-shastri67.github.io/My-Portfolio/  
+- 📫 Reach me at: **shastrirahul246@gmail.com**
 
 
 ### 📊 GitHub Stats
