@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'am Rahul</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  I love building modern web applications with clean UI and solid backend logic.
+Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀
 </p>
 
-- 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL & C++**
-- 🚀 Focused on **Full Stack Web Development**
+- 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++**
+- 🚀 Focused on **Full Stack Development**
 - 🌐 Portfolio: https://rahul-shastri67.github.io/My-Portfolio/
 - 📫 Reach me at: **shastrirahul246@gmail.com**
 
@@ -15,8 +15,9 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,mongodb,nodejs,cpp,git,github,vercel,figma,canva,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,mongodb,nodejs,cpp,git,github,vercel,figma,canva,vscode,notion,postman,linux,express" />
 </p>
+
 
 ---
 
