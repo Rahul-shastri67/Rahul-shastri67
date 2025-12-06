@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.svg" alt="Rahul Shastri - Full Stack Developer Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'am Rahul</h1>
 <h3 align="center">Full Stack Developer</h3>
 
@@ -15,8 +19,9 @@ Crafting modern web applications with stunning UI and robust, scalable backend a
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,mongodb,nodejs,cpp,git,github,vercel,figma,canva,vscode,notion,postman,linux,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,mongodb,nodejs,cpp,git,github,vercel,figma,canva,vscode,notion,postman,linux,express,aws" />
 </p>
+
 
 
 ---
