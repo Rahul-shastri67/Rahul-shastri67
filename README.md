@@ -25,7 +25,8 @@
 
     <!-- Right: GIF -->
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="220" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="220" />
+
     </td>
   </tr>
 </table>
