@@ -6,6 +6,11 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="250" />
+</p>
+
+
+<p align="center">
 Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀
 </p>
 
