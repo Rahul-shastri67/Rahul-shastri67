@@ -7,7 +7,7 @@
 
 - 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL & C++**
 - 🚀 Focused on **Full Stack Web Development**
-- 🌐 Portfolio: [Add your portfolio link here]
+- 🌐 Portfolio: https://rahul-shastri67.github.io/My-Portfolio/
 - 📫 Reach me at: **shastrirahul246@gmail.com**
 
 ---
