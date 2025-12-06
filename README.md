@@ -24,11 +24,11 @@ Crafting modern web applications with stunning UI and robust, scalable backend a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-shastri67&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Rahul-shastri67&show_icons=true&theme=tokyonight&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-shastri67&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Rahul-shastri67&layout=compact&theme=tokyonight" />
 </p>
 
 ---
