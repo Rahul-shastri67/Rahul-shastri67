@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rahul-shastri67/Rahul-shastri67/main/banner.svg" width="100%" />
-</p>
+
 <h1 align="center">Hi 👋, I'am Rahul</h1>
 <h3 align="center">Full Stack Developer</h3>
 
