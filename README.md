@@ -50,6 +50,6 @@ Here are some of my favorite projects 👇
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rahul-shastri-b690ba2b8/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://rahul-shastri67.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white" /></a>
 </p>
