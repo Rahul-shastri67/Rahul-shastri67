@@ -12,8 +12,8 @@
 </p>
 
 
-<!-- Tagline Center -->
-<p align="center">
+<!-- Tagline  -->
+<p align="left">
   <strong>Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀</strong>
 </p>
 <!-- About + Skills (Left by default) -->
