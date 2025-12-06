@@ -5,34 +5,17 @@
 <h1 align="center">Hi 👋, I'am Rahul</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>
-      Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀
-      </p>
-
-      - 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++**  
-      - 🚀 Focused on **Full Stack Development**  
-      - 🌐 Portfolio: https://rahul-shastri67.github.io/My-Portfolio/  
-      - 📫 Reach me at: **shastrirahul246@gmail.com**
-    </td>
-
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="200" />
-    </td>
-  </tr>
-</table>
-
-### 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,mongodb,nodejs,cpp,git,github,vercel,figma,canva,vscode,notion,postman,linux,express,aws" />
+<p align="right">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="250" />
 </p>
 
-
-
----
+<p align="left">
+  Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀 </p> 
+  - 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++**
+  - 🚀 Focused on **Full Stack Development**
+  - 🌐 Portfolio: https://rahul-shastri67.github.io/My-Portfolio/ 
+  - 📫 Reach me at: **shastrirahul246@gmail.com** 
+  ---
 
 ### 📊 GitHub Stats
 
