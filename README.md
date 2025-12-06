@@ -5,12 +5,12 @@
 <h1 align="center">Hi 👋, I'am Rahul</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="right">
+<p align="center">
+  Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀 </p> 
+  
+  <p align="right">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="250" />
 </p>
-
-<p align="left">
-  Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀 </p> 
   - 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++**
   - 🚀 Focused on **Full Stack Development**
   - 🌐 Portfolio: https://rahul-shastri67.github.io/My-Portfolio/ 
