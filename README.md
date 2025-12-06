@@ -27,8 +27,9 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,mongodb,nodejs,cpp,git,github,vercel,aws,figma,canva,vscode,notion,postman,linux,express,tailwind,firebase,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,mongodb,nodejs,cpp,git,github,vercel,aws,figma,canva,vscode,notion,postman,linux,express,tailwind,firebase,jquery,docker,nextjs,ts,redux,prisma,jira,threejs" />
 </p>
+
 
 
 ### 📊 GitHub Stats
