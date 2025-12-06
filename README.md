@@ -18,7 +18,7 @@
 </p>
 <!-- About + Skills (Left by default) -->
 
-- 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++**  
+- 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++.**  
 - 🚀 Focused on **Full Stack Development**  
 - 🌐 Portfolio: https://rahul-shastri67.github.io/My-Portfolio/  
 - 📫 Reach me at: **shastrirahul246@gmail.com**
@@ -29,7 +29,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,mongodb,nodejs,cpp,git,github,vercel,aws,figma,canva,vscode,notion,postman,linux,express,tailwind,firebase,jquery" />
 </p>
----
+
 
 ### 📊 GitHub Stats
 
