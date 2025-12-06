@@ -14,23 +14,24 @@
 <table>
   <tr>
     <!-- Left: About + Skills -->
-    <td width="60%">
-      
-      - 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++**  
-      - 🚀 Focused on **Full Stack Development**  
-      - 🌐 Portfolio: https://rahul-shastri67.github.io/My-Portfolio/  
-      - 📫 Reach me at: **shastrirahul246@gmail.com**
-    
+    <td width="60%" valign="top">
+      <ul>
+        <li>💻 I work with <strong>HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++</strong></li>
+        <li>🚀 Focused on <strong>Full Stack Development</strong></li>
+        <li>🌐 Portfolio: <a href="https://rahul-shastri67.github.io/My-Portfolio/">https://rahul-shastri67.github.io/My-Portfolio/</a></li>
+        <li>📫 Reach me at: <strong>shastrirahul246@gmail.com</strong></li>
+      </ul>
     </td>
 
     <!-- Right: GIF -->
-    <td width="40%" align="center">
+    <td width="40%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="220" />
     </td>
   </tr>
 </table>
 
----
+<hr/>
+
 
 
 ### 📊 GitHub Stats
