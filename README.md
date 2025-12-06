@@ -2,16 +2,17 @@
 <h1 align="center">Hi 👋, I'am Rahul</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<!-- Tagline Center -->
-<p align="center">
-  <strong>Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀</strong>
-</p>
 
 <!-- GIF Center -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="220" />
 </p>
 
+
+<!-- Tagline Center -->
+<p align="center">
+  <strong>Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀</strong>
+</p>
 <!-- About + Skills (Left by default) -->
 
 - 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++**  
