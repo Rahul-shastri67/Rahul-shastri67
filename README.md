@@ -10,7 +10,6 @@
   <strong>Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀</strong>
 </p>
 
-<!-- GIF + Skills Side by Side -->
 <table>
   <tr>
     <!-- Left: About + Skills -->
@@ -26,12 +25,9 @@
     <!-- Right: GIF -->
     <td width="40%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="220" />
-
     </td>
   </tr>
 </table>
-
-<hr/>
 
 
 
