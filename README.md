@@ -10,22 +10,28 @@
   <strong>Crafting modern web applications with stunning UI and robust, scalable backend architecture. 🚀</strong>
 </p>
 
-<!-- GIF Right -->
-<p align="right">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="240" />
-</p>
+<!-- GIF + Skills Side by Side -->
+<table>
+  <tr>
+    <!-- Left: About + Skills -->
+    <td width="60%">
+      
+      - 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++**  
+      - 🚀 Focused on **Full Stack Development**  
+      - 🌐 Portfolio: https://rahul-shastri67.github.io/My-Portfolio/  
+      - 📫 Reach me at: **shastrirahul246@gmail.com**
+    
+    </td>
 
-<!-- About + Skills Left -->
-<p align="left">
-
-- 💻 I work with **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, React, Node.js & C++**  
-- 🚀 Focused on **Full Stack Development**  
-- 🌐 Portfolio: https://rahul-shastri67.github.io/My-Portfolio/  
-- 📫 Reach me at: **shastrirahul246@gmail.com**
-
-</p>
+    <!-- Right: GIF -->
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="220" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### 📊 GitHub Stats
 
