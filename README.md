@@ -22,7 +22,14 @@
 - 🚀 Focused on **Full Stack Development**  
 - 🌐 Portfolio: https://rahul-shastri67.github.io/My-Portfolio/  
 - 📫 Reach me at: **shastrirahul246@gmail.com**
+---
 
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,mysql,mongodb,nodejs,cpp,git,github,vercel,aws,figma,canva,vscode,notion,postman,linux,express,tailwind,firebase,jquery" />
+</p>
+---
 
 ### 📊 GitHub Stats
 
